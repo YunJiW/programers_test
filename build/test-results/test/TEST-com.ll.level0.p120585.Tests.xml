@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ll.level0.p120585.Tests" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-02-23T01:39:42" hostname="DESKTOP-RDGCD11" time="0.058">
+  <properties/>
+  <testcase name="149 180 192 170 중 167 보다 큰사람은 세명이다" classname="com.ll.level0.p120585.Tests" time="0.056"/>
+  <testcase name="[180, 120, 140] 중 190 보다 큰사람은 0명이다" classname="com.ll.level0.p120585.Tests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

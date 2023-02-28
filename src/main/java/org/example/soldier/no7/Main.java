@@ -1,7 +1,7 @@
 package org.example.soldier.no7;
 
 // 문제 : 구성(전사는 무기로 구성된다.)을 사용하여 중복을 제거해주세요.
-
+// Main 클래스는 수정불가능
 class Main {
     public static void main(String[] args) {
         전사타입A a전사타입A = new 전사타입A();
